@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import requests
@@ -43,5 +43,5 @@ url = input(' url >>> ')
 anya_machine = AdminFinder(url, 100)
 anya_machine.run()
 print(' ' + 51 * '-')
-print(' Start …')
+print(' Start 。。。ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚')
 print()
